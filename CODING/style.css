@@ -1,0 +1,27 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: helvetica, sans-serif;	
+color: azure ;
+    background-color: darkseagreen;
+}
+h1 {
+    font-weight: bolder;
+    font-size: 50px;
+}
+.preamble {
+    background-color:darkcyan;
+
+    }
+.participation {
+    background-color:dimgray
+}   
+.requirements {
+    background-color:cadetblue
+}
+a{
+    color:azure
+}

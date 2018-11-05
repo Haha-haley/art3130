@@ -6,21 +6,73 @@ html {
 body{
     font-family: helvetica, sans-serif;	
 color: azure ;
-    background-color: darkseagreen;
+    background-color: pink;
 }
 h1 {
-    font-weight: bolder;
-    font-size: 50px;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 16px;
+letter-spacing: 1px;
+word-spacing: 0.6px;
+color: #FFFFFF;
+font-weight: normal;
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
+box-shadow: 2px 2px 7px 1px rgba(134,47,97,0.95);
+    -webkit-box-shadow: 2px 4px 26px 3px rgba(0,0,0,0.99); 
+box-shadow: 2px 4px 26px 3px rgba(0,0,0,0.99);
+font-size: 50px;
+color: rgb(255, 255, 255);
+background-color: rgb(247, 193, 193);
+text-shadow: rgb(122, 122, 122) 4px 3px 0px;
+}
+h2 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 34px;
+letter-spacing: 1px;
+word-spacing: 0.6px;
+color: #FFFFFF;
+font-weight: normal;
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
+
 }
 .preamble {
-    background-color:darkcyan;
+    background-color: hotpink;
+    border-width: 8px;
+border-style: inset;
+border-color: #EC77CD;
 
     }
+.benefits{
+     background-color: deeppink;
+    border-width: 8px;
+border-style: inset;
+border-color: #FF22A7;
+}
+.summary {
+    border-width: 5px;
+border-style: dotted;
+border-color: #FFFFFF;
+}
+.explanation {
+     background-color: deeppink;
+    border-width: 8px;
+border-style: inset;
+border-color: #FF22A7;   
+}
 .participation {
-    background-color:dimgray
+     background-color: hotpink;
+    border-width: 8px;
+border-style: inset;
+border-color: #EC77CD;
 }   
 .requirements {
-    background-color:cadetblue
+     background-color: hotpink;
+    border-width: 8px;
+border-style: inset;
+border-color: #EC77CD;
 }
 a{
     color:azure

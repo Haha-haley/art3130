@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Lobster');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
+
+body {
+    background-image: url("https://images7.alphacoders.com/450/450856.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+h1 {
+font-family: 'Anton', sans-serif;
+color: antiquewhite;
+}
+
+ul {
+    display: inline-flex;
+}
+a {
+    color: antiquewhite;
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+
+.recipetext {
+    color: ;
+}

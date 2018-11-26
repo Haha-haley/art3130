@@ -24,6 +24,32 @@ a {
     
 }
 
-.recipetext {
-    color: ;
+
+
+.month {
+    padding-top: 50px;
+    font-size: 50px
+}
+
+.blogcontainer {
+    background-color: navajowhite;
+}
+
+
+
+.blogtitle {
+    font-family: 'Anton', sans-serif;
+color: saddlebrown;
+    font-size: 23px;
+        font-style:oblique
+}
+
+.blogpicture {
+    padding: 10px 0px;
+}
+
+.blogdescription {
+    color: saddlebrown;
+    font-size: 15px;
+    font-style: oblique;
 }

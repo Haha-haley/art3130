@@ -3698,7 +3698,7 @@ a.thumbnail {
   padding-right: 0.9375rem;
   padding-left: 0.9375rem;
   max-width: 75rem;
-  margin: 0 auto; }
+  margin: 0 auto;}
   .grid-container.fluid {
     padding-right: 0.9375rem;
     padding-left: 0.9375rem;
@@ -4892,7 +4892,8 @@ a.thumbnail {
   .grid-margin-y > .cell {
     height: calc(100% - 1.875rem);
     margin-top: 0.9375rem;
-    margin-bottom: 0.9375rem; }
+    margin-bottom: 0.9375rem;
+
   .grid-margin-y > .auto {
     height: auto; }
   .grid-margin-y > .shrink {

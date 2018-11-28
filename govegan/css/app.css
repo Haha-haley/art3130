@@ -7,6 +7,7 @@ body {
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    padding: 40px
 
 }
 
@@ -32,7 +33,8 @@ a {
 }
 
 .blogcontainer {
-    background-color: navajowhite;
+    background-color: rosybrown;
+    
 }
 
 
@@ -52,4 +54,49 @@ color: saddlebrown;
     color: saddlebrown;
     font-size: 15px;
     font-style: oblique;
+}
+
+.contactinfo {
+    list-style: none;
+        font-family: 'Anton', sans-serif;
+color: antiquewhite;
+    font-size: 23px;
+        font-style: normal;
+               padding: 100px
+}
+
+.contactlink {
+    padding: 15px 0px;
+}
+
+.blog1title {
+    padding: 20px;
+        color:white;
+     font-family: 'Anton', sans-serif;
+    font-size: 40px;
+        font-style:normal
+    ;
+}
+
+.blog1descripton {
+    color: white;
+    font-size: 20px;
+    font-style: oblique;
+    padding: 15px;
+    padding-top: 1px ;
+}
+
+.blog1picture {
+    padding: 15px;
+        
+}
+
+.blogcontent {
+    color: white;
+    padding: 20px
+}
+
+.mainblogcontainer {
+    background-color:beige;
+    padding: 10px
 }

@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Lobster');
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One');
-
+@import url('https://fonts.googleapis.com/css?family=Mountains+of+Christmas|Pacifico|Satisfy');
 
 body {
     background-image: url("https://images7.alphacoders.com/450/450856.jpg");
@@ -71,7 +71,7 @@ color: antiquewhite;
 }
 
 .blog1title {
-    padding: 20px;
+    padding: 20px 0px;
         color:white;
      font-family: 'Anton', sans-serif;
     font-size: 40px;
@@ -83,7 +83,7 @@ color: antiquewhite;
     color: white;
     font-size: 20px;
     font-style: oblique;
-    padding: 15px;
+    padding: 15px 0px;
     padding-top: 1px ;
 }
 
@@ -114,7 +114,7 @@ font-family: 'Anton', sans-serif;
 }
 
 .blogcontainer3 {
-    background-color: lightsteelblue
+    background-color: lightblue
 }
 
 .sideblog {
@@ -155,3 +155,67 @@ font-family: 'Anton', sans-serif;
 .blogphotos img {
     margin: 5px 0px;
 }
+
+.container {
+    
+}
+
+.sidebar {
+    background-color: lightsteelblue;
+    padding: 10px;
+            
+}
+
+.reviews {
+    font-family: 'Anton', sans-serif;
+    color:white;
+    font-size: 30px;
+    padding: 15px 0px;
+    border-bottom: solid white; 
+}
+
+.recipereviews {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    padding: 12px 0px 
+}
+
+.recipead {
+    padding-top: 8px;
+    max-width: 400px;
+    margin:auto
+}
+
+.hometitle {
+    font-family: 'Satisfy', cursive;
+    font-size: 70px;
+    color: cornflowerblue
+}
+
+.homedescription {
+   font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    color: cornflowerblue
+}
+
+.blogcontainer4 {
+    background-image: url(http://sf.co.ua/15/03/wallpaper-1cbb1b.jpg);
+}
+
+.recipephoto {
+    max-width: 400px;
+    padding: 15px 0px
+}
+
+.hometitle2 {
+    font-family: 'Pacifico', cursive;
+    color: cornflowerblue;
+    font-size: 40px;
+}
+
+.homesideblog {
+    font-family:'Satisfy', cursive;
+    padding: 20px;
+    color: cornflowerblue;
+    font-size: 30px;
+ border-bottom: solid cornflowerblue 2px

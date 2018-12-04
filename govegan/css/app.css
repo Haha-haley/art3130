@@ -67,6 +67,7 @@ color: antiquewhite;
 
 .contactlink {
     padding: 15px 0px;
+    color: beige
 }
 
 .blog1title {
@@ -99,4 +100,58 @@ color: antiquewhite;
 .mainblogcontainer {
     background-color:beige;
     padding: 10px
+}
+
+.blogcontainer2 {
+    background-color:skyblue;
+}
+
+.blogtitle2 {
+font-family: 'Anton', sans-serif;
+    color:floralwhite;
+    font-size: 20px;
+    padding: 7px 0px;
+}
+
+.blogcontainer3 {
+    background-color: lightsteelblue
+}
+
+.sideblog {
+    font-family: 'Anton', sans-serif;
+    color:cornflowerblue;
+    font-size: 18px;
+    padding: 15px 0px;
+    border-bottom: solid 3px cornflowerblue
+    
+}
+
+.blogdescription2 {
+    font-family: 'Anton', sans-serif;
+    padding:15px 0px;
+    font-size: 14px;
+        color: floralwhite
+}
+
+.sideblogtitle {
+    font-family: 'Anton', sans-serif;
+    color:floralwhite;
+    font-size: 14px;
+    padding: 8px 0px
+}
+
+.recipetitle {
+font-family: 'Anton', sans-serif;
+    color:cornflowerblue;
+    font-size: 28px;
+    padding: 11px 0px;
+    border-bottom: 3px solid cornflowerblue;
+}
+
+.blogphoto {
+    padding: 6px 0px;
+}
+
+.blogphotos img {
+    margin: 5px 0px;
 }

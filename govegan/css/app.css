@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Lobster');
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One');
 @import url('https://fonts.googleapis.com/css?family=Mountains+of+Christmas|Pacifico|Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower|Open+Sans+Condensed:300|Oswald');
+@import url('https://fonts.googleapis.com/css?family=Text+Me+One');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Mountains+of+Christmas');
 
 body {
     background-image: url("https://images7.alphacoders.com/450/450856.jpg");
@@ -12,12 +15,16 @@ body {
 }
 
 h1 {
-font-family: 'Anton', sans-serif;
-color: antiquewhite;
+font-family: 'Mountains of Christmas', cursive;
+font-style: bold;
+color: lightgoldenrodyellow;
+font-size: 70px;
+    padding-bottom: 10px
 }
 
 ul {
     display: inline-flex;
+    color:lightgoldenrodyellow;
 }
 a {
     color: antiquewhite;
@@ -33,14 +40,14 @@ a {
 }
 
 .blogcontainer {
-    background-color: rosybrown;
+   background-color: rgba(188, 155, 143,.9);
     
 }
 
 
 
 .blogtitle {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Mountains of Christmas', cursive;
 color: saddlebrown;
     font-size: 23px;
         font-style:oblique
@@ -73,7 +80,7 @@ color: antiquewhite;
 .blog1title {
     padding: 20px 0px;
         color:white;
-     font-family: 'Anton', sans-serif;
+     font-family: 'Mountains of Christmas', cursive;
     font-size: 40px;
         font-style:normal
     ;
@@ -98,58 +105,68 @@ color: antiquewhite;
 }
 
 .mainblogcontainer {
-    background-color:beige;
+    background-color: rgba(245,245,220,.7);
     padding: 10px
 }
 
 .blogcontainer2 {
-    background-color:skyblue;
+    background-color:rgba(135,206,235,.8);
 }
 
 .blogtitle2 {
-font-family: 'Anton', sans-serif;
-    color:floralwhite;
-    font-size: 20px;
-    padding: 7px 0px;
+font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color: floralwhite;
+    padding: 20px 0px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border: solid 3px floralwhite;
+    background-color: rgba(60, 179, 113,.5);
 }
 
 .blogcontainer3 {
-    background-color: lightblue
+    background-color: rgba(255,208,196,.9);
+    padding: 8px;
 }
 
 .sideblog {
-    font-family: 'Anton', sans-serif;
-    color:cornflowerblue;
-    font-size: 18px;
-    padding: 15px 0px;
-    border-bottom: solid 3px cornflowerblue
+font-family: 'Mountains of Christmas', cursive;
+font-style: bold;
+color: ivory;
+    font-size: 35px;
+    padding: 2px 0px;
+    padding-top: 43px;
+    border-bottom: solid 5px ivory
     
 }
 
 .blogdescription2 {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Oswald', sans-serif;
     padding:15px 0px;
-    font-size: 14px;
-        color: floralwhite
+    font-size: 15px;
+    color: floralwhite
 }
 
 .sideblogtitle {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Oswald', sans-serif;
     color:floralwhite;
-    font-size: 14px;
-    padding: 8px 0px
+    font-size: 17px;
+    padding-left: 8px;
+    padding-top: 15px;
+    
 }
 
 .recipetitle {
-font-family: 'Anton', sans-serif;
-    color:cornflowerblue;
-    font-size: 28px;
+font-family: 'Mountains of Christmas', cursive;
+font-style: bold;
+color: ivory;
+font-size: 60px;
     padding: 11px 0px;
-    border-bottom: 3px solid cornflowerblue;
+    border-bottom: 3px solid floralwhite;
 }
 
 .blogphoto {
-    padding: 6px 0px;
+   padding: 10px;
 }
 
 .blogphotos img {
@@ -161,50 +178,61 @@ font-family: 'Anton', sans-serif;
 }
 
 .sidebar {
-    background-color: lightsteelblue;
-    padding: 10px;
+background-color:rgba(135,206,235,.8);
+    padding: 20px;
             
 }
 
 .reviews {
-    font-family: 'Anton', sans-serif;
-    color:white;
+    font-family: 'Mountains of Christmas', cursive;
+    color:floralwhite;
+    color:floralwhite;
     font-size: 30px;
-    padding: 15px 0px;
-    border-bottom: solid white; 
+    padding: 11px;
+    border-bottom: solid floralwhite; 
 }
 
 .recipereviews {
-    font-family: 'Anton', sans-serif;
+    font-family: 'oswald', sans-serif;
     color: white;
-    padding: 12px 0px 
+    padding: 12px;
+    font-size: 18px;
 }
 
 .recipead {
-    padding-top: 8px;
-    max-width: 400px;
-    margin:auto
+    padding-right: 5px 0px;
+    max-width: 150px;
+
 }
 
 .hometitle {
-    font-family: 'Satisfy', cursive;
-    font-size: 70px;
-    color: cornflowerblue
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 53px;
+    color: rosybrown;
+    padding-bottom: 20px 3px;
+    border-bottom: solid 3px;
 }
 
 .homedescription {
-   font-family: 'Satisfy', cursive;
-    font-size: 30px;
-    color: cornflowerblue
+  font-family: 'Oswald', sans-serif;
+    font-size: 21px;
+    color: dimgrey;
+    padding: 20px 10px;
 }
 
 .blogcontainer4 {
-    background-image: url(http://sf.co.ua/15/03/wallpaper-1cbb1b.jpg);
+    background-color: rgba(255,228,196,.8);
+    padding: 7px;
+    margin-top: 20px;
+   
+    
 }
 
 .recipephoto {
-    max-width: 400px;
-    padding: 15px 0px
+    max-width: 1000px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
 }
 
 .hometitle2 {
@@ -214,8 +242,123 @@ font-family: 'Anton', sans-serif;
 }
 
 .homesideblog {
-    font-family:'Satisfy', cursive;
-    padding: 20px;
-    color: cornflowerblue;
+    font-family:'pacifico';
+    padding: 20px 0px;
+    color: rosybrown;
     font-size: 30px;
- border-bottom: solid cornflowerblue 2px
+ border-bottom: solid rosybrown 2px;
+
+}
+
+.homesidemenu {
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+
+
+
+.menuitem {
+    border: solid beige 1px
+}
+
+.homemenuimages {
+    max-width: 100px;
+    padding-top:8px 
+}
+
+.homepageside {
+   font-family: 'Oswald', sans-serif;
+    padding-top: 6px;
+    color: dimgrey
+}
+
+.homemenuimages2 {
+   padding-top: 3px;
+font-size: 12px
+}
+
+.recipephoto2 {
+  
+    
+}
+
+.recipehomedescription {
+    font-family: 'Oswald', sans-serif;
+    font-size: 26px;
+    color: dimgrey;
+    border: solid dimgrey 3px;
+    padding: 20px;
+    text-align: center
+}
+
+.recipehomeabout {
+    font-size: 15px;
+    text-align: justify;
+    padding: 10px
+}
+
+.readmore {
+    max-width: 300px;
+}
+
+.blogtitle2.1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color: floralwhite;
+    padding: 10px;
+    border: solid 3px floralwhite;
+    background-color: rgba(128,128,128,.8);
+}
+
+.blogtitle1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color: floralwhite;
+    padding: 10px;
+    border: solid 3px floralwhite;
+    background-color: rgba(128,128,128,.5)
+}
+
+.blogtitle3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color: floralwhite;
+    padding: 10px;
+    border: solid 3px floralwhite;
+    background-color: rgba(255,182,193,.5);
+}
+
+.blogtitle4 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color: floralwhite;
+    padding: 10px;
+    border: solid 3px floralwhite;
+    background-color: rgb(147,112,219,.5);
+}
+
+.photovegan {
+    max-width: 150px;
+    padding-left: 8px;
+    
+}
+
+.fullsideblog {
+    background-color: rgba(188, 155, 143,.5);
+}
+
+.homepageside2 {
+    font-family: "oswald";
+    color:floralwhite;
+    padding-left: 8px;
+    font-style: italic
+}
+
+.months {
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+.sidebar2 {
+    background-color: rgba(188, 155, 143,.9);
+}

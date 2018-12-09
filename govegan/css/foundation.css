@@ -3696,9 +3696,10 @@ a.thumbnail {
 
 .grid-container {
   padding-right: 0.9375rem;
-  padding-left: 0.9375rem;
   max-width: 75rem;
-  margin: 0 auto;}
+  margin: 0 auto;
+padding: 10px}
+
   .grid-container.fluid {
     padding-right: 0.9375rem;
     padding-left: 0.9375rem;
@@ -3715,6 +3716,7 @@ a.thumbnail {
   display: flex;
   -ms-flex-flow: row wrap;
       flex-flow: row wrap; }
+
 
 .cell {
   -ms-flex: 0 0 auto;
